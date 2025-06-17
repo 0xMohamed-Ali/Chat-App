@@ -56,3 +56,8 @@ A fully functional multi-client chat system built using **pure Java**, demonstra
 .
 ├── ChatServer.java  # Multi-threaded server logic
 └── ChatClient.java  # Swing-based client logic
+
+## How to use 
+```bash
+Java ChatServer (in one terminal)
+Java ChatClient (in other terminals)
