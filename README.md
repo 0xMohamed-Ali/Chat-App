@@ -1,6 +1,6 @@
 # 🗨️ Java Multi-Client Chat Application
 
-A fully functional multi-client chat system built using **pure Java**, demonstrating:
+A fully functional multi-client chat system built using **pure Java**, demonstrating :
 
 - Java Socket Programming
 - Multi-threaded Server using Runnable Interface
